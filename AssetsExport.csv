@@ -1,0 +1,4 @@
+Address,Name,Operating System,Exploits,Malware,Vulnerabilities,Risk,Last Scan
+192.168.2.100,CCS-VM-SCAN,"Microsoft Windows Server 2008 R2, Enterprise Edition SP1",26,5,146,85859.22,3/9/2014
+192.168.2.101,CCS-VM-Console,"Microsoft Windows Server 2008 R2, Enterprise Edition SP1",14,3,117,76705.34,3/9/2014
+192.168.2.102,CCS-VM-Console-NEW,"Microsoft Windows Server 2008 R2, Enterprise Edition SP2",14,3,117,76705.34,3/10/2014
