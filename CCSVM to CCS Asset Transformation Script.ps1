@@ -1,5 +1,3 @@
-﻿## Authored by Nick Fisher - CBI
-
 $file = Import-csv "C:\AssetsExport.csv"
 $file | Foreach {
     [PSCustomObject]@{
